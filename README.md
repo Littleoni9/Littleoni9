@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Essie (aka littleoni9)
 
-<!--
-**Littleoni9/Littleoni9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer | AWS Beginner | Health & Tech Enthusiast
+Welcome to my GitHub profile portfolio!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Cloud Projects
+
+### 📁 [AWS Static Website Project](https://github.com/littleoni9/aws-static-site)
+A static HTML site hosted on Amazon S3 with public access using IAM and bucket policies.
+
+🔗 [Live Website](http://essie-static-site.s3-website-us-east-1.amazonaws.com)
+
+🛠️ Tools: Amazon S3, IAM, Bucket Policy, HTML
